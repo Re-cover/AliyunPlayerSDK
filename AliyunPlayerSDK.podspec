@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
      s.name                 = "AliyunPlayerSDK"
-     s.version              = "3.1.0"
+     s.version              = "3.1.0.1"
      s.summary              = "Aliyun Player SDK"
      s.author               = { "Aliyun" => "" }
      s.homepage             = "https://help.aliyun.com/document_detail/45270.html?spm=5176.doc45284.6.717.jYFsFP"
